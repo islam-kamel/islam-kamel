@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on ``Cookie Blog```
+
+- 🔭 I’m currently working on ```Cookie Blog````
 - 🌱 I’m currently learning ```Oauth2```
+
+ 
  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=islam-kamel&show_icons=true)
