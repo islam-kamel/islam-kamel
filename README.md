@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on ```Cookie Blog````
-- 🌱 I’m currently learning ```Oauth2```
-
- 
- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=islam-kamel&show_icons=true)
+- 🔭 I’m currently working on  **Cookie Blog**
+- 🌱 I’m currently learning  **OAuth2**
+- 👯 I’m looking to collaborate **Cookie Blog**
+- 📫 How to reach me: **WhatsApp +201066373279 **
+- 💬 Ask me about **Python, Django, SQL**
+- ⚡ Fun fact: **My nickname I Whiskey 😂😁**
