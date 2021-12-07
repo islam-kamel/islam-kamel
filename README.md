@@ -19,4 +19,3 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate **Cookie Blog**
 - 📫 How to reach me: **WhatsApp +201066373279**
 - 💬 Ask me about **Python, Django, SQL**
-- ⚡ Fun fact: **My nickname I Whiskey 😂😁**
