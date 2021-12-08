@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on  **CODERUSH Blog**
 - 🌱 I’m currently learning  **OAuth2**
-- 👯 I’m looking to collaborate **Cookie Blog**
+- 👯 I’m looking to collaborate **CODERUSH Blog**
 - 📫 How to reach me: **WhatsApp +201066373279**
 - 💬 Ask me about **Python, Django, SQL**
