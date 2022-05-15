@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on  **CODERUSH Blog**
-- 🌱 I’m currently learning  **OAuth2**
-- 👯 I’m looking to collaborate **CODERUSH Blog**
+- 🔭 I’m currently working on  **ArabClub**
+- 🌱 I’m currently learning  **Data Stractrue**
+- 👯 I’m looking to collaborate **ArabClub Blog**
 - 📫 How to reach me: **WhatsApp +201066373279**
 - 💬 Ask me about **Python, Django, SQL**
