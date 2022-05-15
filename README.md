@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on  **ArabClub**
-- 🌱 I’m currently learning  **Data Stractrue**
+- 🌱 I’m currently learning  **Data Structure**
 - 👯 I’m looking to collaborate **ArabClub Blog**
 - 📫 How to reach me: **WhatsApp +201066373279**
 - 💬 Ask me about **Python, Django, SQL**
