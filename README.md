@@ -8,29 +8,14 @@
 ### :man_technologist: About Me :
 <!--
 **islam-kamel/islam-kamel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+-->
 ```
-I am Islam Kamel, I work as a Backend developer, 
+I am Islam Kamel, I work as a Backend developer, 🧑‍💻
 use python language with the wonderful framework Django 
 make web applications and APIs and I like to create scripts, 
 always look for everything that is new in the world of technology, 
-I like to be the best always.
+I like to be the best always ❤️.
 ```
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-- 🔭 I’m currently working on  **ArabClub**
-- 🌱 I’m currently learning  **Data Structure**
-- 👯 I’m looking to collaborate **ArabClub Blog**
-- 📫 How to reach me: **WhatsApp +201066373279**
-- 💬 Ask me about **Python, Django, SQL**
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
