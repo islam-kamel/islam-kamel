@@ -1,3 +1,7 @@
+<a href="https://github.com/islam-kamel">
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=islam-kamel&label=Profile%20views&color=blueviolet&style=flat" alt="islam-kamel" /> </p>
+</a>
+
 <div id="header">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100"/>
   <h3>Hi there 👋</h3>
