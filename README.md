@@ -19,6 +19,8 @@ use python language with the wonderful framework Django
 make web applications and APIs and I like to create scripts, 
 always look for everything that is new in the world of technology, 
 I like to be the best always ❤️.
+
+Email: <a mailto="dev.islam.kamel@gmail.com">dev.islam.kamel@gmail.com</a>
 ```
 ---
 
