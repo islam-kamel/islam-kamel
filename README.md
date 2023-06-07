@@ -4,7 +4,7 @@
 
 <div id="header">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100"/>
-  <h3>Hi there 👋</h3>
+  <h3>Hello Friend 👋</h3>
 </div>
 
 ---
