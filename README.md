@@ -14,9 +14,11 @@
 **islam-kamel/islam-kamel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ```
-I am Islam Kamel, I work as a Backend developer, 🧑‍💻
-use python language with the wonderful framework Django 
-make web applications and APIs and I like to create scripts, 
+work as a Full-Stack developer, 🧑‍💻
+use Python language with the wonderful framework Django or JavaScript with React.js
+to Make Awesome Web Applications,
+have Experience to Create RESTful API and I like to create scripts and Command Line Tools, 
+To Improve Developer Experience, 
 always look for everything that is new in the world of technology, 
 I like to be the best always ❤️.
 ```
