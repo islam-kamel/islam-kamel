@@ -77,7 +77,7 @@ View CV: [https://islamkamel.com/](https://islamkamel.com/)
 ### 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/islam-al-saghir/)
-- Email: [dev.islam.kamel@gmail.com](mailto:dev.islam.kamel@gmail.com)
+- Email: [dev.islam.kamel@gmail.com](mailto:contact@islamkamel.com)
 
 > "Always exploring, always improving, always aiming to be the best!"
 
