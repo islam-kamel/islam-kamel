@@ -20,7 +20,7 @@ I'm a passionate **Full-Stack Developer** 🧑‍💻 specializing in building a
 - 🚀 Always exploring the latest in tech and striving to be the best.
 - ❤️ I love working with new technologies and sharing what I learn.
 
-View CV: [https://islam-kamel.github.io/](https://islam-kamel.github.io/)
+View CV: [https://islamkamel.com/](https://islamkamel.com/)
 
 ---
 
